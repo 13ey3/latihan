@@ -1,3 +1,3 @@
 ## latihan html css
 
--- hanya unuk latighan css html
+- hanya unuk latighan css html
